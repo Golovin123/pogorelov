@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxoC6Ljr8T3aLN53L8pvb6g6vwa6M9uNBIiKMw3yAnZmacFknOGq5VQipJSdXWgky8hB7SaqB661y9F/8V0FVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Root\\Desktop\\para1-master\\work\\autarization\\autarization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Root\\.nuget\\packages\\materialdesigncolors\\2.0.7\\materialdesigncolors.2.0.7.nupkg.sha512",
+    "C:\\Users\\Root\\.nuget\\packages\\materialdesignthemes\\4.6.0\\materialdesignthemes.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
